@@ -25,11 +25,16 @@ A small Python project based on **Tic-Tac-Toe**, the familiar two-player game pl
 
 - Python 3
 
-## Run locally
+## Clone and run locally
 
-1. Clone this repository.
-2. Make sure Python 3 is installed.
-3. Open the project folder and run its main Python script:
+Clone the public repository:
+
+```bash
+git clone https://github.com/sor1209/python-tictactoe.git
+cd python-tictactoe
+```
+
+Make sure Python 3 is installed, then run the main Python script:
 
 ```bash
 python <entry-file>.py
